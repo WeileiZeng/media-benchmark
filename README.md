@@ -3,4 +3,5 @@
 ## Images
 - [image](image/)
 ## Videos
-- https://sample-videos.com
+- [video](video/)
+- For more videos, visit https://sample-videos.com
